@@ -50,14 +50,7 @@ export default function Home() {
       </div>
       {/* MODAL SECTION */}
       <Modal />
-      <div>
-        <a
-          target="_blank"
-          href="https://www.amazon.in/ASUS-Battery-i5-13450HX-Windows-G614JJ-N3086WS/dp/B0CJ35G6B3/ref=sr_1_1_sspa?keywords=gaming+laptop&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=amzanshassoci-21&linkCode=ur2&linkId=396f7bf1a42c931aa8fa5834e72ea4a1&camp=3638&creative=24630"
-        >
-          Get This Amazing Deal
-        </a>
-      </div>
+
       <BottomNav />
     </div>
   );
